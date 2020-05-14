@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/mnt/storage/apps/software/python3.5/3.5.6/bin/python3.5
 """
 Script created to run on the BRCA reports and created an aggreagated exon QC.
 
